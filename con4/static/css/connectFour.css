@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+}
+
+#blue {
+  color: #5ac9e8;
+}
+
+.blue {
+  background-color: #5ac9e8;
+}
+
+#red {
+  color: #e85a5f;
+}
+
+.red {
+  background-color: #e85a5f;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-collapse: separate;
+  border-spacing: 5px 3px;
+}
+
+td {
+  background-color:grey;
+  height:50px;
+  border-radius:50%;
+  border: 2px black solid;
+  padding: 40px;
+  width:(100/7)%;
+}
